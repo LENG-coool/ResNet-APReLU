@@ -9,7 +9,7 @@ export default defineConfig({
     root: { 
       label: 'English', 
       lang: 'en-US', 
-      link: '/en/', 
+      link: '/', 
       themeConfig: {
 
       }
