@@ -59,11 +59,7 @@ Experiments are conducted on a planetary gearbox dataset covering:
 
 ### 3.1 Accuracy Results
 
-Under different noise conditions (SNR = 5 dB, 3 dB, and 1 dB), ResNet-APReLU outperforms methods using ReLU, PReLU, and others:
-
-- The average test accuracy of ResNet-APReLU reaches **97.51%**.
-- Compared with the PReLU-based ResNet, accuracy improves by approximately **3.98%**.
-- Compared with the ReLU-based ResNet, accuracy improves by approximately **5.27%**.
+Under different noise conditions (SNR = 5 dB, 3 dB, and 1 dB), ResNet-APReLU outperforms methods using ReLU, PReLU, and others
 
 ### 3.2 Feature Visualization (t-SNE)
 

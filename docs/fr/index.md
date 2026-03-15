@@ -59,11 +59,7 @@ L'étude est menée sur un jeu de données de boîte de vitesses planétaire, co
 
 ### 3.1 Résultats de précision
 
-Sous différentes conditions de bruit (SNR = 5 dB, 3 dB, 1 dB), ResNet-APReLU obtient de meilleures performances que les méthodes ReLU, PReLU, etc. :
-
-- La précision moyenne de test de ResNet-APReLU atteint **97.51%**.
-- Par rapport à la version ResNet avec PReLU, la précision augmente d'environ **3.98%**.
-- Par rapport à la version ResNet avec ReLU, la précision augmente d'environ **5.27%**.
+Sous différentes conditions de bruit (SNR = 5 dB, 3 dB, 1 dB), ResNet-APReLU obtient de meilleures performances que les méthodes ReLU, PReLU, etc. 
 
 ### 3.2 Visualisation des caractéristiques (t-SNE)
 

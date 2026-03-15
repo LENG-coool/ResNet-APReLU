@@ -59,11 +59,7 @@ Die Untersuchung wurde auf einem Datensatz eines Planetengetriebes durchgeführt
 
 ### 3.1 Genauigkeitsergebnisse
 
-Unter verschiedenen Rauschbedingungen (SNR = 5 dB, 3 dB, 1 dB) zeigt ResNet-APReLU gegenüber Verfahren wie ReLU und PReLU bessere Ergebnisse:
-
-- Die mittlere Testgenauigkeit von ResNet-APReLU erreicht **97.51%**.
-- Gegenüber der PReLU-basierten ResNet-Variante steigt die Genauigkeit um etwa **3.98%**.
-- Gegenüber der ReLU-basierten ResNet-Variante steigt die Genauigkeit um etwa **5.27%**.
+Unter verschiedenen Rauschbedingungen (SNR = 5 dB, 3 dB, 1 dB) zeigt ResNet-APReLU gegenüber Verfahren wie ReLU und PReLU bessere Ergebnisse
 
 ### 3.2 Merkmalsvisualisierung (t-SNE)
 

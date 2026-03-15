@@ -59,11 +59,7 @@ Lo studio è stato condotto su un dataset di riduttore epicicloidale, che copre:
 
 ### 3.1 Risultati di accuratezza
 
-In diverse condizioni di rumore (SNR = 5 dB, 3 dB, 1 dB), ResNet-APReLU mostra prestazioni superiori rispetto a metodi come ReLU e PReLU:
-
-- L'accuratezza media di test di ResNet-APReLU raggiunge **97.51%**.
-- Rispetto alla versione ResNet con PReLU, l'accuratezza aumenta di circa **3.98%**.
-- Rispetto alla versione ResNet con ReLU, l'accuratezza aumenta di circa **5.27%**.
+In diverse condizioni di rumore (SNR = 5 dB, 3 dB, 1 dB), ResNet-APReLU mostra prestazioni superiori rispetto a metodi come ReLU e PReLU
 
 ### 3.2 Visualizzazione delle caratteristiche (t-SNE)
 

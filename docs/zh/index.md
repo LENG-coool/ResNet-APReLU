@@ -59,11 +59,7 @@ APReLU 不再依赖固定激活公式，而是通过内置子网络为当前输�
 
 ### 3.1 准确率结果
 
-在不同噪声条件（SNR = 5 dB、3 dB、1 dB）下，ResNet-APReLU 相比 ReLU、PReLU 等方法表现更优：
-
-- ResNet-APReLU 平均测试准确率达到 **97.51%**。
-- 相比 PReLU 版 ResNet，准确率提升约 **3.98%**。
-- 相比 ReLU 版 ResNet，准确率提升约 **5.27%**。
+在不同噪声条件（SNR = 5 dB、3 dB、1 dB）下，ResNet-APReLU 相比 ReLU、PReLU 等方法表现更优。
 
 ### 3.2 特征可视化（t-SNE）
 
