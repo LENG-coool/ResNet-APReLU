@@ -4,6 +4,8 @@ import katex from 'markdown-it-katex'
 export default defineConfig({
   base: '/ResNet-APReLU/',
   title: 'ResNet-APReLU',
+    lang: 'en-US',
+
 
   locales: {
     root: { 
